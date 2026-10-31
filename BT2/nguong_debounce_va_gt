@@ -1,0 +1,2 @@
+Ngưỡng debounce đã chọn: 50ms.  
+Giải thích 1 dòng: Ngưỡng 50ms là khoảng thời gian tối ưu để bỏ qua hoàn toàn các tiếp điểm giả do hiện tượng rung cơ khí của nút nhấn (thường kéo dài từ 5–20ms) mà không gây ảnh hưởng đến thao tác nhấn phím thực tế của người dùng.   
